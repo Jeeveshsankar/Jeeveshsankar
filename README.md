@@ -16,12 +16,12 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/HACKATHON%20WINS-6-00e5ff?style=for-the-badge&labelColor=020a14)
-![](https://img.shields.io/badge/PRIZE%20MONEY-Rs.1%2C01%2C000-ffd700?style=for-the-badge&labelColor=020a14)
-![](https://img.shields.io/badge/INTERNSHIPS-5-aa44ff?style=for-the-badge&labelColor=020a14)
-![](https://img.shields.io/badge/EXPO%20WINS-5-00e676?style=for-the-badge&labelColor=020a14)
-![](https://img.shields.io/badge/PAPER%20WINS-3-ff4081?style=for-the-badge&labelColor=020a14)
-![](https://img.shields.io/badge/CGPA-8.02%20%2F%2010-00cfff?style=for-the-badge&labelColor=020a14)
+![](https://img.shields.io/badge/HACKATHON%20WINS-6-white?style=for-the-badge&labelColor=0055cc)
+![](https://img.shields.io/badge/PRIZE%20MONEY-Rs.1%2C01%2C000-white?style=for-the-badge&labelColor=b8860b)
+![](https://img.shields.io/badge/INTERNSHIPS-5-white?style=for-the-badge&labelColor=6600cc)
+![](https://img.shields.io/badge/EXPO%20WINS-5-white?style=for-the-badge&labelColor=006633)
+![](https://img.shields.io/badge/PAPER%20WINS-3-white?style=for-the-badge&labelColor=aa0033)
+![](https://img.shields.io/badge/CGPA-8.02%20%2F%2010-white?style=for-the-badge&labelColor=005577)
 
 </div>
 
@@ -29,15 +29,15 @@
 
 ## ◈ INTERNSHIPS
 
-<table width="100%" style="border-collapse:collapse">
+<table width="100%">
 <thead>
 <tr>
-<th align="left" width="24%">ROLE</th>
+<th align="left" width="22%">ROLE</th>
 <th align="left" width="26%">COMPANY</th>
 <th align="left" width="16%">PERIOD</th>
 <th align="left" width="16%">STIPEND</th>
 <th align="left" width="10%">MODE</th>
-<th align="left" width="8%">DOMAIN</th>
+<th align="left" width="10%">DOMAIN</th>
 </tr>
 </thead>
 <tbody>
@@ -101,49 +101,73 @@
 </thead>
 <tbody>
 <tr>
-<td><b>WINNER</b></td>
+<td>
+
+![](https://img.shields.io/badge/WINNER-gold?style=flat-square&labelColor=b8860b&color=b8860b&logoColor=white)
+
+</td>
 <td><b>HackXtreme'25</b></td>
-<td>KRCET</td>
+<td>KRCET, Trichy</td>
 <td>Trichy</td>
 <td>24hr National</td>
 <td><b>Rs. 25,000</b></td>
 </tr>
 <tr>
-<td><b>WINNER</b></td>
+<td>
+
+![](https://img.shields.io/badge/WINNER-gold?style=flat-square&labelColor=b8860b&color=b8860b)
+
+</td>
 <td><b>NEXGEN'26</b></td>
-<td>Hindustan College of Engg.</td>
+<td>Hindustan College of Engg., CBE</td>
 <td>Coimbatore</td>
 <td>National Level</td>
 <td><b>Rs. 20,000</b></td>
 </tr>
 <tr>
-<td><b>WINNER</b></td>
+<td>
+
+![](https://img.shields.io/badge/WINNER-gold?style=flat-square&labelColor=b8860b&color=b8860b)
+
+</td>
 <td><b>SMARTTECH 2K26</b></td>
-<td>Sree Sakthi Engg. College</td>
+<td>Sree Sakthi Engg. College, CBE</td>
 <td>Coimbatore</td>
 <td>National Level</td>
 <td><b>Rs. 15,000</b></td>
 </tr>
 <tr>
-<td><b>WINNER</b></td>
+<td>
+
+![](https://img.shields.io/badge/WINNER-gold?style=flat-square&labelColor=b8860b&color=b8860b)
+
+</td>
 <td><b>E-HORYZON 2K26</b></td>
-<td>Kongu Engineering College</td>
+<td>Kongu Engineering College, Erode</td>
 <td>Erode</td>
 <td>National Level</td>
 <td><b>Rs. 10,000</b></td>
 </tr>
 <tr>
-<td>RUNNER-UP</td>
+<td>
+
+![](https://img.shields.io/badge/RUNNER--UP-silver?style=flat-square&labelColor=555&color=777)
+
+</td>
 <td>National Level Hackathon</td>
-<td>Christ the King Engg. College</td>
+<td>Christ the King Engg. College, CBE</td>
 <td>Coimbatore</td>
 <td>National Level</td>
 <td>Rs. 10,000</td>
 </tr>
 <tr>
-<td>2ND PLACE</td>
+<td>
+
+![](https://img.shields.io/badge/2ND%20PLACE-bronze?style=flat-square&labelColor=8B4513&color=a0522d)
+
+</td>
 <td>Heisen Hack</td>
-<td>SRM Institute</td>
+<td>SRM Institute, Chennai</td>
 <td>Chennai</td>
 <td>24hr National</td>
 <td>Rs. 5,000</td>
@@ -159,29 +183,41 @@
 <thead>
 <tr>
 <th align="left" width="12%">RANK</th>
-<th align="left" width="26%">EVENT</th>
+<th align="left" width="28%">EVENT</th>
 <th align="left" width="34%">ORGANIZER</th>
-<th align="left" width="16%">LOCATION</th>
+<th align="left" width="14%">LOCATION</th>
 <th align="left" width="12%">PRIZE</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><b>WINNER</b></td>
+<td>
+
+![](https://img.shields.io/badge/WINNER-gold?style=flat-square&labelColor=b8860b&color=b8860b)
+
+</td>
 <td><b>Barnstormz 2K25</b></td>
 <td>Hindusthan Institute of Technology</td>
 <td>Coimbatore</td>
 <td><b>Rs. 5,000</b></td>
 </tr>
 <tr>
-<td>RUNNER-UP</td>
+<td>
+
+![](https://img.shields.io/badge/RUNNER--UP-silver?style=flat-square&labelColor=555&color=777)
+
+</td>
 <td>Project Competition 2K25</td>
 <td>Velammal Institute of Technology</td>
 <td>Chennai</td>
 <td>Rs. 3,000</td>
 </tr>
 <tr>
-<td>2ND PLACE</td>
+<td>
+
+![](https://img.shields.io/badge/2ND%20PLACE-bronze?style=flat-square&labelColor=8B4513&color=a0522d)
+
+</td>
 <td>ASME TN-NOVATE 2.0</td>
 <td>Sri Ramakrishna Institute of Technology</td>
 <td>Coimbatore</td>
@@ -198,29 +234,41 @@
 <thead>
 <tr>
 <th align="left" width="12%">RANK</th>
-<th align="left" width="26%">EVENT</th>
-<th align="left" width="36%">ORGANIZER</th>
+<th align="left" width="28%">EVENT</th>
+<th align="left" width="34%">ORGANIZER</th>
 <th align="left" width="14%">LOCATION</th>
 <th align="left" width="12%">PRIZE</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><b>WINNER</b></td>
+<td>
+
+![](https://img.shields.io/badge/WINNER-gold?style=flat-square&labelColor=b8860b&color=b8860b)
+
+</td>
 <td><b>TECHBIZ 25</b></td>
-<td>Sethu Institute of Technology</td>
+<td>Sethu Institute of Technology, Madurai</td>
 <td>Madurai</td>
 <td><b>Rs. 3,000</b></td>
 </tr>
 <tr>
-<td>RUNNER-UP</td>
+<td>
+
+![](https://img.shields.io/badge/RUNNER--UP-silver?style=flat-square&labelColor=555&color=777)
+
+</td>
 <td>Think Present Inspire — IEEE</td>
 <td>PSNA College of Engineering and Technology</td>
 <td>Dindigul</td>
 <td>Rs. 2,000</td>
 </tr>
 <tr>
-<td>2ND PLACE</td>
+<td>
+
+![](https://img.shields.io/badge/2ND%20PLACE-bronze?style=flat-square&labelColor=8B4513&color=a0522d)
+
+</td>
 <td>Cyber Trail — National CTF</td>
 <td>Chennai Institute of Technology</td>
 <td>Chennai</td>
@@ -278,10 +326,10 @@
 <table width="100%">
 <thead>
 <tr>
-<th align="left" width="28%">ROLE</th>
-<th align="left" width="38%">ORGANIZATION</th>
-<th align="left" width="22%">SCOPE</th>
-<th align="left" width="12%">YEAR</th>
+<th align="left" width="26%">ROLE</th>
+<th align="left" width="36%">ORGANIZATION</th>
+<th align="left" width="24%">SCOPE</th>
+<th align="left" width="14%">YEAR</th>
 </tr>
 </thead>
 <tbody>
