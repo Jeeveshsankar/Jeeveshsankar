@@ -12,16 +12,7 @@
 
 ## ◈ STATS
 
-<div align="center">
-
-![](https://img.shields.io/badge/HACKATHON%20WINS-6-white?style=for-the-badge&labelColor=0055cc)
-![](https://img.shields.io/badge/PRIZE%20MONEY-Rs.1%2C01%2C000-white?style=for-the-badge&labelColor=b8860b)
-![](https://img.shields.io/badge/INTERNSHIPS-5-white?style=for-the-badge&labelColor=6600cc)
-![](https://img.shields.io/badge/EXPO%20WINS-5-white?style=for-the-badge&labelColor=006633)
-![](https://img.shields.io/badge/PAPER%20WINS-3-white?style=for-the-badge&labelColor=aa0033)
-![](https://img.shields.io/badge/CGPA-8.02%20%2F%2010-white?style=for-the-badge&labelColor=005577)
-
-</div>
+<div align="center"><img src="https://img.shields.io/badge/HACKATHON%20WINS-6-ffffff?style=for-the-badge&labelColor=0055cc" /><img src="https://img.shields.io/badge/PRIZE%20MONEY-Rs.1%2C01%2C000-ffffff?style=for-the-badge&labelColor=996600" /><img src="https://img.shields.io/badge/INTERNSHIPS-5-ffffff?style=for-the-badge&labelColor=6600cc" /><img src="https://img.shields.io/badge/EXPO%20WINS-5-ffffff?style=for-the-badge&labelColor=006633" /><img src="https://img.shields.io/badge/PAPER%20WINS-3-ffffff?style=for-the-badge&labelColor=990033" /><img src="https://img.shields.io/badge/CGPA-8.02%20%2F%2010-ffffff?style=for-the-badge&labelColor=005577" /></div>
 
 ---
 
@@ -34,7 +25,7 @@
 <th>COMPANY</th>
 <th>PERIOD</th>
 <th>STIPEND / MONTH</th>
-<th>LOCATION / MODE</th>
+<th>LOCATION</th>
 <th>DOMAIN</th>
 <th>DURATION</th>
 </tr>
@@ -106,7 +97,7 @@
 </thead>
 <tbody>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%87%20WINNER-1st%20Place-FFD700?style=flat-square&labelColor=7B5800&color=FFD700"/></td>
+<td><img src="https://img.shields.io/badge/WINNER-1st_Place-ffffff?style=flat-square&labelColor=996600&color=cc8800"/></td>
 <td><b>HackXtreme'25</b></td>
 <td>KRCET</td>
 <td>Trichy</td>
@@ -115,7 +106,7 @@
 <td><b>Rs. 25,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%87%20WINNER-1st%20Place-FFD700?style=flat-square&labelColor=7B5800&color=FFD700"/></td>
+<td><img src="https://img.shields.io/badge/WINNER-1st_Place-ffffff?style=flat-square&labelColor=996600&color=cc8800"/></td>
 <td><b>NEXGEN'26</b></td>
 <td>Hindustan College of Engineering</td>
 <td>Coimbatore</td>
@@ -124,7 +115,7 @@
 <td><b>Rs. 20,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%87%20WINNER-1st%20Place-FFD700?style=flat-square&labelColor=7B5800&color=FFD700"/></td>
+<td><img src="https://img.shields.io/badge/WINNER-1st_Place-ffffff?style=flat-square&labelColor=996600&color=cc8800"/></td>
 <td><b>SMARTTECH Hackathon 2K26</b></td>
 <td>Sree Sakthi Engineering College</td>
 <td>Coimbatore</td>
@@ -133,7 +124,7 @@
 <td><b>Rs. 15,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%87%20WINNER-1st%20Place-FFD700?style=flat-square&labelColor=7B5800&color=FFD700"/></td>
+<td><img src="https://img.shields.io/badge/WINNER-1st_Place-ffffff?style=flat-square&labelColor=996600&color=cc8800"/></td>
 <td><b>E-HORYZON 2K26</b></td>
 <td>Kongu Engineering College</td>
 <td>Erode</td>
@@ -142,7 +133,7 @@
 <td><b>Rs. 10,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%88%20RUNNER--UP-2nd%20Place-C0C0C0?style=flat-square&labelColor=444444&color=C0C0C0"/></td>
+<td><img src="https://img.shields.io/badge/RUNNER--UP-2nd_Place-ffffff?style=flat-square&labelColor=444444&color=666666"/></td>
 <td><b>National Level Hackathon</b></td>
 <td>Christ the King Engineering College</td>
 <td>Coimbatore</td>
@@ -151,7 +142,7 @@
 <td><b>Rs. 10,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%89%202ND%20PLACE-3rd%20Place-CD7F32?style=flat-square&labelColor=5C3300&color=CD7F32"/></td>
+<td><img src="https://img.shields.io/badge/2ND_PLACE-3rd_Place-ffffff?style=flat-square&labelColor=7B3F00&color=a05520"/></td>
 <td><b>Heisen Hack</b></td>
 <td>SRM Institute of Science and Technology</td>
 <td>Chennai</td>
@@ -180,7 +171,7 @@
 </thead>
 <tbody>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%87%20WINNER-1st%20Place-FFD700?style=flat-square&labelColor=7B5800&color=FFD700"/></td>
+<td><img src="https://img.shields.io/badge/WINNER-1st_Place-ffffff?style=flat-square&labelColor=996600&color=cc8800"/></td>
 <td><b>Barnstormz 2K25</b></td>
 <td>Hindusthan Institute of Technology</td>
 <td>Coimbatore</td>
@@ -189,7 +180,7 @@
 <td><b>Rs. 5,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%88%20RUNNER--UP-2nd%20Place-C0C0C0?style=flat-square&labelColor=444444&color=C0C0C0"/></td>
+<td><img src="https://img.shields.io/badge/RUNNER--UP-2nd_Place-ffffff?style=flat-square&labelColor=444444&color=666666"/></td>
 <td><b>Project Competition 2K25</b></td>
 <td>Velammal Institute of Technology</td>
 <td>Chennai</td>
@@ -198,7 +189,7 @@
 <td><b>Rs. 3,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%89%202ND%20PLACE-3rd%20Place-CD7F32?style=flat-square&labelColor=5C3300&color=CD7F32"/></td>
+<td><img src="https://img.shields.io/badge/2ND_PLACE-3rd_Place-ffffff?style=flat-square&labelColor=7B3F00&color=a05520"/></td>
 <td><b>ASME TN-NOVATE 2.0</b></td>
 <td>Sri Ramakrishna Institute of Technology</td>
 <td>Coimbatore</td>
@@ -227,7 +218,7 @@
 </thead>
 <tbody>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%87%20WINNER-1st%20Place-FFD700?style=flat-square&labelColor=7B5800&color=FFD700"/></td>
+<td><img src="https://img.shields.io/badge/WINNER-1st_Place-ffffff?style=flat-square&labelColor=996600&color=cc8800"/></td>
 <td><b>TECHBIZ 25</b></td>
 <td>Sethu Institute of Technology</td>
 <td>Madurai</td>
@@ -236,7 +227,7 @@
 <td><b>Rs. 3,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%88%20RUNNER--UP-2nd%20Place-C0C0C0?style=flat-square&labelColor=444444&color=C0C0C0"/></td>
+<td><img src="https://img.shields.io/badge/RUNNER--UP-2nd_Place-ffffff?style=flat-square&labelColor=444444&color=666666"/></td>
 <td><b>Think Present Inspire — IEEE</b></td>
 <td>PSNA College of Engineering and Technology</td>
 <td>Dindigul</td>
@@ -245,7 +236,7 @@
 <td><b>Rs. 2,000</b></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/%F0%9F%A5%89%202ND%20PLACE-3rd%20Place-CD7F32?style=flat-square&labelColor=5C3300&color=CD7F32"/></td>
+<td><img src="https://img.shields.io/badge/2ND_PLACE-3rd_Place-ffffff?style=flat-square&labelColor=7B3F00&color=a05520"/></td>
 <td><b>Cyber Trail — National CTF</b></td>
 <td>Chennai Institute of Technology</td>
 <td>Chennai</td>
@@ -256,38 +247,13 @@
 </tbody>
 </table>
 
-<div align="right">
-
-**TOTAL PRIZE MONEY EARNED — Rs. 1,01,000**
-
-</div>
+<div align="right"><b>TOTAL PRIZE MONEY EARNED — Rs. 1,01,000</b></div>
 
 ---
 
 ## ◈ TECH STACK
 
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-</div>
+<div align="center"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" /><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /></div>
 
 ---
 
